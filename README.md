@@ -9,3 +9,4 @@ Some text
 ## Local development
 
 1. Open xxx in your browser
+2. Have fun!
